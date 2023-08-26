@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="5dp">
+
+
+    <!--    <TextView-->
+    <!--        android:id="@+id/textView3"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:textSize="20dp"-->
+    <!--        android:textColor="@color/white"-->
+    <!--        android:layout_margin="5dp"-->
+    <!--        android:gravity="center"-->
+    <!--        android:background="@drawable/bg_bo_goc_tren"-->
+    <!--        android:text="Thêm Khoản Thu" />-->
+
+        <TextView
+            android:layout_width="340dp"
+            android:layout_height="100dp"
+            android:layout_weight="4"
+            android:id="@+id/tvgc"
+            android:background="#E4E4E4"
+            android:text="Ghi Chú"
+            android:textSize="15sp"
+            android:padding="0dp"/>
+<!--    <Spinner-->
+<!--        android:id="@+id/spType1"-->
+<!--        android:background="#E4E4E4"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content" />-->
+
+    </LinearLayout>
+
+
+
+

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#E4E4E4"
+    android:layout_gravity="center|top"
+    android:layout_margin="10dp">
+<!--    <Spinner-->
+<!--        android:id="@+id/spType1"-->
+<!--        android:background="#E4E4E4"-->
+<!--        android:layout_gravity="end"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content" />-->
+
+<!--        <TextView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="50dp"-->
+<!--            android:layout_weight="4"-->
+<!--            android:id="@+id/tvtlt"-->
+<!--            android:background="#E4E4E4"-->
+<!--            android:text="Loại Thu"-->
+<!--            android:textColor="@color/black"-->
+<!--            android:textSize="15sp"-->
+<!--            android:padding="15dp"/>-->
+<!--        <TextView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="50dp"-->
+<!--            android:layout_weight="4"-->
+<!--            android:textColor="@color/black"-->
+<!--            android:id="@+id/tvtkt"-->
+<!--            android:background="#E4E4E4"-->
+<!--            android:text="Tên Khoản Thu"-->
+<!--            android:textSize="15sp"-->
+<!--            android:padding="15dp"/>-->
+<!--        <TextView-->
+<!--            android:id="@+id/tvst"-->
+<!--            android:padding="15dp"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_weight="4"-->
+<!--            android:textColor="@color/black"-->
+<!--            android:layout_height="50dp"-->
+<!--            android:background="#E4E4E4"-->
+<!--            android:text="Số Tiền"/>-->
+        <TextView
+            android:id="@+id/tvgc1"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#E4E4E4"
+            android:text="Ghi Chú"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="5dp"/>
+<!--        <Button-->
+<!--            android:id="@+id/btnDong"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:background="@drawable/bg_bo_btright"-->
+<!--            android:text="Đóng" />-->
+    </LinearLayout>
+
+
+
+
+
+
